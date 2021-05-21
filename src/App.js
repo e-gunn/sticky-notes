@@ -29,8 +29,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header />
-        <NotesList />
+        <Header searchText={this.props.searchText} />
+        <NotesList notes={this.props.notes} />
       </div>
     );
   }
