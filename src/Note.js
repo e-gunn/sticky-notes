@@ -19,6 +19,7 @@ class Note extends Component {
     const editMeId = this.props.note.id;
     this.props.onType(editMeId, "description", updatedValue);
   };
+  // check function for error 
   clickDelete = () => this.props.remove(this.props.note.id);
   render() {
     return (
