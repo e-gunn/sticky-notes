@@ -4,7 +4,7 @@ Never forget to do something ever again, write it on a sticky note!
 
 ## Project Details
 
-**View My Project:** https://codesandbox.io/s/l12-build-your-big-component-help-forked-gk8o2?file=/src/index.css
+**View My Project:** https://gk8o2.csb.app/
 
 ![Sticky Notes Screenshot](https://github.com/e-gunn/sticky-notes/blob/main/screenshot.png)
 
