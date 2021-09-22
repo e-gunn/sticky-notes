@@ -17,9 +17,9 @@ Never forget to do something ever again, write it on a sticky note!
 
 - React
 - CSS3
-- HTML5
+- JSX
 
 ## Acknowledgements
 
 Project idea: [Skillcrush](https://skillcrush.com)<br>
-Original HTML & CSS provided by: [Skillcrush](https://skillcrush.com)
+Original CSS provided by: [Skillcrush](https://skillcrush.com)
